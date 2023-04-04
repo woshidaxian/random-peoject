@@ -1,0 +1,22 @@
+{
+  "name": "random-peoject",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/woshidaxian/random-peoject.git"
+  },
+  "author": "HWG",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/woshidaxian/random-peoject/issues"
+  },
+  "homepage": "https://github.com/woshidaxian/random-peoject#readme",
+  "dependencies": {
+    "single-line-log": "^1.1.2"
+  }
+}
